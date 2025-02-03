@@ -65,7 +65,7 @@ We welcome contributions! If you’d like to suggest improvements or submit your
 📢 Stay Connected
 - YouTube: **[AILifeBizHacks YouTube channel](https://www.youtube.com/@AILifeBizHacks)**
 - Twitter: **[@AILifeBizHacks](https://x.com/AILifeBizHacks)**
-- Email: support@ailifebizhacks.ai
+- Email: support@ailifebizhacks.com
 
 📝 License
 
