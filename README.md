@@ -63,9 +63,10 @@ We welcome contributions! If you’d like to suggest improvements or submit your
 3. Submit a pull request.
    
 📢 Stay Connected
-YouTube: **[AILifeBizHacks YouTube channel](https://www.youtube.com/@AILifeBizHacks)**
-Twitter: @AILifeBizHacks
-Email: support@ailifebizhacks.ai
+- YouTube: **[AILifeBizHacks YouTube channel](https://www.youtube.com/@AILifeBizHacks)**
+- Twitter: @AILifeBizHacks
+- Email: support@ailifebizhacks.ai
 
 📝 License
+
 This repository is licensed under the MIT License.
